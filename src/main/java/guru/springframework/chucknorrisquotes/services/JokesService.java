@@ -1,6 +1,6 @@
 package guru.springframework.chucknorrisquotes.services;
 
-public interface ChuckNorrisQuotes {
+public interface JokesService {
 
     public String getRandomQuote();
 

@@ -1,8 +1,5 @@
 package guru.springframework.chucknorrisquotes;
 
-import guru.springframework.chucknorrisquotes.controllers.JokesController;
-import guru.springframework.chucknorrisquotes.models.ChucksQuotes;
-import guru.springframework.chucknorrisquotes.services.ChuckNorrisQuotes;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
